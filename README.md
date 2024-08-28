@@ -1,6 +1,10 @@
 # L'IA Générative dans la Recherche
 ## Atelier - EIOM 2024
 
+### TODO:
+- [ ] Add TINY URL WITH QR
+- [ ] Link to data in notebook
+- [ ] Visualisations
 
 ### Carnets de Travail
 
