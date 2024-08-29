@@ -1,4 +1,11 @@
 # L'IA Générative dans la Recherche
+
+Cet atelier explore l'automatisation de l'analyse de données qualitatives, appliquée à la mesure de l'opinion publique.
+
+Vous apprendrez à utiliser #Python, l'outil de référence en IA, libre et gratuit, pour interagir avec l'API d'un LLM et identifier des attributs sociodémographiques ou autres sur des jeux de données qualitatives existants.
+
+Aucun prérequis n'est nécessaire !
+
 ## Atelier - EIOM 2024 (https://tinyurl.com/eiom24)
 ![WS-EIOM](https://github.com/mickaeltemporao/workshop-ai-augmented-data/blob/main/data/raw/eiom24-400?raw=true)
 
