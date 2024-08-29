@@ -9,9 +9,6 @@ Aucun prérequis n'est nécessaire !
 ## Atelier - EIOM 2024 (https://tinyurl.com/eiom24)
 ![WS-EIOM](https://github.com/mickaeltemporao/workshop-ai-augmented-data/blob/main/figures/eiom24-400?raw=true)
 
-### TODO:
-- [ ] Visualisations
-
 ### Carnets de Travail
 
 1. [On démarre...](https://colab.research.google.com/github/mickaeltemporao/workshop-ai-augmented-data/blob/main/notebooks/01-getting-started.ipynb)
