@@ -2,22 +2,19 @@
 This module interacts with an LLM API to create labels using predefined tasks.
 """
 
-import src.tasks
 import pandas as pd
 import google.generativeai as genai
 
-DATA_PATH = "data/raw/us_pols_20.csv"
+DATA_PATH = "https://raw.githubusercontent.com/mickaeltemporao/workshop-ai-augmented-data/main/data/raw/us_pols_20.csv"
 MODEL = "gemini-1.5-flash"
-OUTPUT_FILE_PATH = f"tmp/us_pols_{MODEL}_augmented.csv"
-SUBTASK_LIST = list(src.tasks.task_sub.keys())
 
-GOOGLE_API_KEY="AIzaSyCSC7xBHu9dGhXOqki3zFtB_gC68x8qrZc"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 model = genai.GenerativeModel(MODEL)
 
 response = model.generate_content("Peux-tu m'écrire une histoire fantastique en 5 phrases?")
 print(response.text)
+
 
 def run_task(task, content):
     model=genai.GenerativeModel(
@@ -57,7 +54,6 @@ def find_file():
 
 
 def main():
-    tmp_df = find_file()
 
     for task in src.tasks.task_main:
         print(f"Starting {task}")
@@ -80,5 +76,3 @@ def main():
             tmp_df.to_csv(OUTPUT_FILE_PATH)
             print("Filed Saved")
 
-if __name__ == "__main__":
-    main()
