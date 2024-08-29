@@ -5,6 +5,7 @@
 - [ ] Add TINY URL WITH QR
 - [ ] Link to data in notebook
 - [ ] Visualisations
+- [ ] [DATA SET](https://raw.githubusercontent.com/mickaeltemporao/workshop-ai-augmented-data/main/data/raw/us_pols_20.csv)
 
 ### Carnets de Travail
 
