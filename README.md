@@ -7,7 +7,7 @@ Vous apprendrez à utiliser #Python, l'outil de référence en IA, libre et grat
 Aucun prérequis n'est nécessaire !
 
 ## Atelier - EIOM 2024 (https://tinyurl.com/eiom24)
-![WS-EIOM](https://github.com/mickaeltemporao/workshop-ai-augmented-data/blob/main/data/raw/eiom24-400?raw=true)
+![WS-EIOM](https://github.com/mickaeltemporao/workshop-ai-augmented-data/blob/main/figures/eiom24-400?raw=true)
 
 ### TODO:
 - [ ] Visualisations
