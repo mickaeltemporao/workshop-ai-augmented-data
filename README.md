@@ -1,6 +1,6 @@
 # L'IA Générative dans la Recherche
 
-Cet atelier explore l'automatisation d'analyses de données qualitatives, appliquée à la mesure de l'opinion publique.
+Cet atelier explore l'automatisation d'analyse de données qualitatives, appliquée à la mesure de l'opinion publique.
 
 Vous apprendrez à utiliser #Python, l'outil de référence en IA, libre et gratuit, pour interagir avec l'API d'un LLM et identifier des attributs sociodémographiques ou autres sur des jeux de données qualitatives existants.
 
