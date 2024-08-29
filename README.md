@@ -20,9 +20,9 @@ Aucun prérequis n'est nécessaire !
 
 # Licence et crédits
 
-La science doit être ouverte, et cet atelier s'appuie sur d'autres matériaux sous licence ouverte. Sauf indication contraire, tous les matériaux de ce cours sont sous licence <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non Commercial 4.0 International</a>.
+La science doit être ouverte, et cet atelier s'appuie sur d'autres matériaux sous licence ouverte. Sauf indication contraire, tous les matériaux de ce cours sont sous licence <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial 4.0 International</a>.
 
-Certaines parties du contenu de projet sont inspirées par de nombreux autres qui ont publié leurs matériaux publiquement. J'essaie toujours de donner crédit, mais si j'ai oublié quelqu'un, n'hésitez pas à me contacter.
+Certaines parties du contenu de ce projet sont inspirées par de nombreux autres personnes qui ont publié leurs matériaux publiquement. J'essaie toujours de donner crédit, mais si j'ai oublié quelqu'un, n'hésitez pas à me contacter.
 
 - [Jeffrey Arnold](http://www.jrnold.me/)
 - [Pablo Barberá](http://pablobarbera.com/)
@@ -30,5 +30,5 @@ Certaines parties du contenu de projet sont inspirées par de nombreux autres qu
 - [Yannick Dufresne](https://www.fss.ulaval.ca/notre-faculte/repertoire-du-personnel/yannick-dufresne)
 - [Steven V. Miller](http://svmiller.com/)
 
-# Retours
+# Feedback
 Si vous avez des commentaires sur l'atelier ou si vous trouvez des fautes de frappe ou des erreurs, vous pouvez me le faire savoir en cliquant **"Issues"** puis sur le bouton **"New Issue"** pour créer une nouvelle question. Ajoutez votre suggestion ou décrivez le problème. Merci pour votre aide.
